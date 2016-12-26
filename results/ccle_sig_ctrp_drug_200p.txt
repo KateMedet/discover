@@ -1,0 +1,2 @@
+	score	0.95 moe	p-value (forward)	p-value (reverse)	p-value	fdr (forward)	fdr (reverse)	fdr
+alvocidib	-0.3751086901343958	0.0161593027597538	1.0	0.005	0.005	1.0	0.005	0.005
