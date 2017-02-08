@@ -1,0 +1,2 @@
+	score	0.95 moe	p-value (forward)	p-value (reverse)	p-value	fdr (forward)	fdr (reverse)	fdr
+CGP-082996_B	-0.5404962460823433	0.024432485621311027	1.0	0.005	0.005	1.0	0.005	0.005
