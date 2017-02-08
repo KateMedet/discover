@@ -8,7 +8,7 @@ print('\tExported variable DIR_PROJECT ({}).'.format(DIR_PROJECT))
 
 DIR_TOOLS = join(DIR_PROJECT, 'tools/')
 sys.path.insert(0, DIR_TOOLS)
-print('\tExported variable DIR_TOOLS ({}), and added it to the path.'.format(DIR_TOOLS))
+print('\tExported variable DIR_TOOLS ({}).'.format(DIR_TOOLS))
 
 DIR_DATA = join(DIR_PROJECT, 'data/')
 print('\tExported variable DIR_DATA ({}).'.format(DIR_DATA))

@@ -1,2 +1,0 @@
-	score	0.95 moe	p-value (forward)	p-value (reverse)	p-value	fdr (forward)	fdr (reverse)	fdr
-PD-0332991	-0.3404891284554823	0.06055448394099112	0.98	0.02	0.02	0.98	0.02	0.02
