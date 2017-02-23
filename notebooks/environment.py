@@ -1,31 +1,30 @@
-######### Set up Notebook Project (NB Project) #########
-print('Launching NB Project ...')
+######### Set up Notebook Package parameters #########
+print('Launching Notebook Package (NbPackage)...')
 import sys
+from os import environ
 from os.path import join, realpath
 
-DIR_PROJECT = realpath('..')
-print('\tExported variable DIR_PROJECT ({}).'.format(DIR_PROJECT))
+DIR_PACKAGE = realpath('..')
+environ['DIR_PACKAGE'] = DIR_PACKAGE
+print('\tExported variable DIR_PACKAGE ({}).'.format(DIR_PACKAGE))
 
-DIR_TOOLS = join(DIR_PROJECT, 'tools/')
+DIR_TOOLS = join(DIR_PACKAGE, 'tools/')
 sys.path.insert(0, DIR_TOOLS)
-print('\tExported variable DIR_TOOLS ({}).'.format(DIR_TOOLS))
+print('\tExported variable DIR_TOOLS ({}), and added it to the path.'.format(DIR_TOOLS))
 
-DIR_DATA = join(DIR_PROJECT, 'data/')
+DIR_DATA = join(DIR_PACKAGE, 'data/')
 print('\tExported variable DIR_DATA ({}).'.format(DIR_DATA))
 
-DIR_RESULT = join(DIR_PROJECT, 'results/')
-print('\tExported variable DIR_RESULT ({}).'.format(DIR_RESULT))
+DIR_RESULTS = join(DIR_PACKAGE, 'results/')
+print('\tExported variable DIR_RESULTS ({}).'.format(DIR_RESULTS))
 
-DIR_MEDIA = join(DIR_PROJECT, 'media/')
+DIR_MEDIA = join(DIR_PACKAGE, 'media/')
 print('\tExported variable DIR_MEDIA ({}).'.format(DIR_MEDIA))
 
-######### Set up project specific parameters #########
+
+######### Set up project-specific parameters #########
+from pprint import pprint
 import numpy as np
 import pandas as pd
-import matplotlib as mpl
-from statsmodels.sandbox.stats.multicomp import multipletests
-from matplotlib.backends.backend_pdf import PdfPages
-mpl.rcParams['figure.figsize'] = (8, 5)
-mpl.rcParams['figure.max_open_warning'] = 100
-sys.path.insert(0, DIR_TOOLS)
+
 import ccal
