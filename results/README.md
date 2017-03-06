@@ -1,0 +1,1 @@
+This folder stores outputs from the notebook(s).

@@ -1,0 +1,1 @@
+This folder stores data used by the notebook(s).
