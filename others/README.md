@@ -1,0 +1,1 @@
+This folder stores all other stuff related to this NbPackage.
