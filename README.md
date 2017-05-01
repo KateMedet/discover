@@ -1,2 +1,1 @@
-# DiSCoVER
-A Publication [NbPackage](https://github.com/UCSD-CCAL/notebook_package_template) for the [DiSCoVER](http://clincancerres.aacrjournals.org/content/early/2016/03/24/1078-0432.CCR-15-3011) method paper.
+See the [DiSCoVER Publication](https://www.ncbi.nlm.nih.gov/pubmed/27012813)
