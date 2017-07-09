@@ -1,3 +1,6 @@
+# DiSCoVER Paper Analysis
+NbPackage for DiSCoVER paper analysis
+
 See the [DiSCoVER Publication](https://www.ncbi.nlm.nih.gov/pubmed/27012813)
 
 <div>
