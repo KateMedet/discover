@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/UCSD-CCAL"><img src="media/ccal-logo-D3.png" width="400"></a>
+  <a href="https://github.com/UCSD-CCAL"><img src="media/ccal-logo.jpg" width="400"></a>
   <br>
   DiSCoVER Paper Analysis
   <br>
