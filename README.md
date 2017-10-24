@@ -1,11 +1,12 @@
-<h1 align="center">
+<h2 align="center">
   <br>
   <a href="https://github.com/UCSD-CCAL"><img src="media/ccal-logo.jpg" width="400"></a>
   <br>
   DiSCoVER Paper Analysis
   <br>
-</h1>
-<h4 align="center">NbPackage for the <a href="https://www.ncbi.nlm.nih.gov/pubmed/27012813" target="_blank">DiSCoVER paper</a> analysis</h4>
+</h2>
+
+<h1 <a href="https://www.ncbi.nlm.nih.gov/pubmed/27012813" target="_blank">DiSCoVERing Innovative Therapies for Rare Tumors: Combining Genetically Accurate Disease Models with In Silico Analysis to Identify Novel Therapeutic Targets</a> analysis</h1>
 <br><br>
 
 <div>
