@@ -6,7 +6,7 @@
   <br>
 </h2>
 <br><br>
-<h1 <a href="https://www.ncbi.nlm.nih.gov/pubmed/27012813" target="_blank">DiSCoVERing Innovative Therapies for Rare Tumors: Combining Genetically Accurate Disease Models with In Silico Analysis to Identify Novel Therapeutic Targets</a></h1>
+<h1 <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="blank">Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States</a></h1>
 <br><br>
 
 <div>
