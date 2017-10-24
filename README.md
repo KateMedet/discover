@@ -5,7 +5,7 @@
   DiSCoVER Paper Analysis
   <br>
 <br>
-<h1 ><a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="blank">DiSCoVERing Innovative Therapies for Rare Tumors: Combining Genetically Accurate Disease Models with In Silico Analysis to Identify Novel Therapeutic Targets</a></h1>
+<h1 ><a href="http://clincancerres.aacrjournals.org/content/early/2016/06/15/1078-0432.CCR-15-3011" target="blank">DiSCoVERing Innovative Therapies for Rare Tumors: Combining Genetically Accurate Disease Models with In Silico Analysis to Identify Novel Therapeutic Targets</a></h1>
 <br>
 
 
